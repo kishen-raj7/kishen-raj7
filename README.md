@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Kishen Raj 👋
 
-<!--
-**kishen-raj7/kishen-raj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience across healthcare, environmental compliance, and quantitative analysis.
 
-Here are some ideas to get you started:
+I enjoy building data-driven solutions for financial services, insurance, business intelligence, and risk management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+📈 Financial Analytics
+
+🏦 Banking & FinTech
+
+🛡️ Insurance Risk Analytics
+
+📊 Business Intelligence
+
+🐍 Python & SQL
+
+## Tech Stack
+
+SQL
+Python
+Power BI
+Tableau
+Scikit-Learn
+Pandas
+NumPy
+Git
+GitHub
+
+## Certifications
+
+- IBM Business Analyst Professional Certificate
+- Associate Data Analyst in SQL Datacamp
+- Associate Data Engineer in Databricks
+- Data Analyst in Databricks
+- Citi Markets Quantitative Analysis Simulation
+
+## 📫 Connect With Me
+
+- LinkedIn: add your LinkedIn link here
+- Email: itskishenraj@gmail.com
